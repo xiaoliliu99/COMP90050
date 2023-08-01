@@ -1,7 +1,7 @@
 # COMP90050
 Advance database system
 
-A review note for the winter subject COMP90050 in unimelb
+A review note for the 2023 winter subject COMP90050 in unimelb
 
 reference: 
 
